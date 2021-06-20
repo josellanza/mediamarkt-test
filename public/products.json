@@ -1,0 +1,42 @@
+[
+  {
+    "id": "5fbfe211d32e20623de48785",
+    "name": "nestea",
+    "number": 13,
+    "description": "Summer Tea",
+    "image": "nestea.jpg",
+    "price": 2
+  },
+  {
+    "id": "5fbfe211d32e20623de48777",
+    "name": "fanta",
+    "number": 22,
+    "description": "Get the best fanta",
+    "image": "fanta2.jpeg",
+    "price": 2
+  },
+  {
+    "id": "5fbfe211d32e20623de40907",
+    "name": "coke",
+    "number": 30,
+    "description": "Better than pepsi",
+    "image": "coke2.jpeg",
+    "price": 3
+  },
+  {
+    "id": "5fbfe211d32e20623de44452",
+    "name": "water",
+    "number": 14,
+    "description": "Healthy and cheap",
+    "image": "water.jpeg",
+    "price": 1
+  },
+  {
+    "id": "5fbfe211d32e20623de41219",
+    "name": "pepsi",
+    "number": 28,
+    "description": "Better than coke",
+    "image": "pepsi.jpg",
+    "price": 2
+  }
+]

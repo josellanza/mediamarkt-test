@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.main {
+  padding: 200px;
+  display: flex;
+  flex-flow: column;
+}
+
+.warningMessage {
+  color: red;
+  margin: 50px;
+}
